@@ -89,7 +89,7 @@ If the commit reverts a previous commit, it should begin with revert:, followed 
 | :lock:                     | `:lock:`                     | `security`         | fix **security** issue |
 | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` | `performance`      | fix **performance** issue |
 | :zap:                      | `:zap:`                      | `improvement`      | update **backwards-compatible** feature |
-| :boom:                     | `:boom`                         | `breaking`         | update **backwards-incompatible** feature |
+| :boom:                     | `:boom:`                     | `breaking`         | update **backwards-incompatible** feature |
 | :warning:                  | `:warning:`                  | `deprecated`       | **deprecate** feature |
 | :globe_with_meridians:     | `:globe_with_meridians:`     | `i18n`             | update or fix **internationalization** |
 | :wheelchair:               | `:wheelchair:`               | `a11y`             | update or fix **accessibility** |
